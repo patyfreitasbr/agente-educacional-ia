@@ -133,6 +133,9 @@ Este projeto é parte da construção do meu portfólio na área de IA, com foco
 
 📌 Projeto idealizado e desenvolvido com domínio em engenharia de prompts e criação de agentes de IA, utilizando IA generativa (versão gratuita) para execução prática e aplicação de conceitos em tecnologia educacional.
 
+## Repositório de estudos através do Agente Educacional
+* [Estudos de Python com Tutor IA](https://github.com/patyfreitasbr/estudos-python_com-tutor_IA)
+
 
 ## Licença
 
